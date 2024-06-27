@@ -1,17 +1,27 @@
 # PromptEngineering
 
 **Opdracht 1:**
+
 2 tomaten
 
 Een halve courgette
+
 Tonijn
+
 Zoete aardappel
+
 2 uien
+
 Eieren
+
 Ingevroren doperwten
+
 Bloem
+
 Pasta 
+
 Bloemkool
+
 Bleekselderij 
 
 **Opdracht 3:**
